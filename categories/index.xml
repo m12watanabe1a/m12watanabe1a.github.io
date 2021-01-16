@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on My New Hugo Site</title><link>localhost:1313/categories/</link><description>Recent content in Categories on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>©HarvestX Inc. 2021</copyright><lastBuildDate>Tue, 08 Oct 2019 15:17:42 +0900</lastBuildDate><atom:link href="localhost:1313/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>お知らせ</title><link>localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link><pubDate>Tue, 08 Oct 2019 15:17:42 +0900</pubDate><guid>localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid><description/></item><item><title>プレスリリース</title><link>localhost:1313/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</link><pubDate>Sun, 29 Sep 2019 19:19:21 +0900</pubDate><guid>localhost:1313/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My New Hugo Site</title>
+    <link>localhost:1313/categories/</link>
+    <description>Recent content in Categories on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©HarvestX Inc. 2021</copyright>
+    <lastBuildDate>Tue, 08 Oct 2019 15:17:42 +0900</lastBuildDate><atom:link href="localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>お知らせ</title>
+      <link>localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+      <pubDate>Tue, 08 Oct 2019 15:17:42 +0900</pubDate>
+      
+      <guid>localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>プレスリリース</title>
+      <link>localhost:1313/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Sun, 29 Sep 2019 19:19:21 +0900</pubDate>
+      
+      <guid>localhost:1313/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
