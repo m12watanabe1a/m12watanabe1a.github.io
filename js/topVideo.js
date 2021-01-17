@@ -16,7 +16,7 @@ const fileName = {
    console.log(windowHeight)
    const topVideo = document.getElementById('hh-video')
 
-   if (windowHeight*0.9/windowWidth < 16/9 ){
+   if (windowWidth < 560 && windowHeight*0.9/windowWidth < 16/9 ){
      topVideo.classList.add("resize-video")
    }
    
