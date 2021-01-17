@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://m12watanabe1a.github.io/</loc>
-    <lastmod>2020-10-20T17:30:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://m12watanabe1a.github.io/categories/</loc>
     <lastmod>2020-10-20T17:30:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://m12watanabe1a.github.io/news/</loc>
+    <lastmod>2020-10-20T17:30:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://m12watanabe1a.github.io/</loc>
     <lastmod>2020-10-20T17:30:00+09:00</lastmod>
   </url>
   
