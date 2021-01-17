@@ -359,7 +359,8 @@ header {
     font-weight: 500;
     font-style: italic;
     font-size: 40px;
-    color: #ffffff; }
+    color: #ffffff;
+    text-transform: capitalize; }
   .section-header img {
     height: 100%;
     width: auto;
@@ -536,10 +537,13 @@ header {
   display: none; }
 
 .hero-header {
-  height: 100vh;
+  height: 90vh;
   width: 100%;
   position: relative;
   background: rgba(0, 0, 0, 0.9); }
+  @media screen and (min-width: 1025px) {
+    .hero-header {
+      height: 100vh; } }
   .hero-header::before {
     content: "";
     position: absolute;
@@ -561,6 +565,9 @@ header {
         min-height: 100%;
         width: auto;
         height: auto; } }
+  .hero-header .resize-video {
+    height: auto;
+    width: 100%; }
   .hero-header_message {
     position: absolute;
     top: 50%;

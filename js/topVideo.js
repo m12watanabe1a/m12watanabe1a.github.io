@@ -9,8 +9,16 @@ const fileName = {
      return  document.location.protocol + "//" + document.location.host + "/img/" + fileName
    }
    
-   const windowWidth = window.outerWidth
+   const windowWidth = window.innerWidth
+   const windowHeight = window.innerHeight
+
+   console.log(windowWidth)
+   console.log(windowHeight)
    const topVideo = document.getElementById('hh-video')
+
+   if (windowHeight*0.9/windowWidth < 16/9 ){
+     topVideo.classList.add("resize-video")
+   }
    
    if (windowWidth >= 1025){
      topVideo.src = getFilePath(fileName.lg)
