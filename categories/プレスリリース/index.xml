@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>プレスリリース on HarvestX</title>
+    <link>https://m12watanabe1a.github.io/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</link>
+    <description>Recent content in プレスリリース on HarvestX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>©HarvestX Inc. 2021</copyright>
+    <lastBuildDate>Tue, 20 Oct 2020 17:30:00 +0900</lastBuildDate><atom:link href="https://m12watanabe1a.github.io/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「東大IPC 1stRound」に採択されました</title>
+      <link>https://m12watanabe1a.github.io/news/20201020/</link>
+      <pubDate>Tue, 20 Oct 2020 17:30:00 +0900</pubDate>
+      
+      <guid>https://m12watanabe1a.github.io/news/20201020/</guid>
+      <description>東京大学協創プラットフォーム開発(東大 IPC)が展開するインキュベーションプログラム「東大 IPC 1stRound」に HarvestX(株)が採択されました。
+プレスリリース 東大 IPC: https://www.utokyo-ipc.co.jp/2020/10/utokyoipc-1stround_3rd_final/
+メディア掲載 DIAMOND SIGNAL
+TechCrunch</description>
+    </item>
+    
+  </channel>
+</rss>

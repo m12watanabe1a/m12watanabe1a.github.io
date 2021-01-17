@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on My New Hugo Site</title>
+    <title>News | HarvestX on HarvestX</title>
     <link>https://m12watanabe1a.github.io/news/</link>
-    <description>Recent content in News on My New Hugo Site</description>
+    <description>Recent content in News | HarvestX on HarvestX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja</language>
     <copyright>©HarvestX Inc. 2021</copyright>
-    <lastBuildDate>Wed, 30 Sep 2020 09:00:00 +0900</lastBuildDate><atom:link href="https://m12watanabe1a.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Oct 2020 17:30:00 +0900</lastBuildDate><atom:link href="https://m12watanabe1a.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「東大IPC 1stRound」に採択されました</title>
+      <link>https://m12watanabe1a.github.io/news/20201020/</link>
+      <pubDate>Tue, 20 Oct 2020 17:30:00 +0900</pubDate>
+      
+      <guid>https://m12watanabe1a.github.io/news/20201020/</guid>
+      <description>東京大学協創プラットフォーム開発(東大 IPC)が展開するインキュベーションプログラム「東大 IPC 1stRound」に HarvestX(株)が採択されました。
+プレスリリース 東大 IPC: https://www.utokyo-ipc.co.jp/2020/10/utokyoipc-1stround_3rd_final/
+メディア掲載 DIAMOND SIGNAL
+TechCrunch</description>
+    </item>
+    
     <item>
       <title>アグリテックグランプリにて三井化学賞を受賞しました</title>
       <link>https://m12watanabe1a.github.io/news/20200930/</link>
@@ -16,6 +28,16 @@
       <guid>https://m12watanabe1a.github.io/news/20200930/</guid>
       <description>先日、9 月 26 日（土）に行われたアグリテックグランプリ最終選考会で三井化学賞を受賞しました。
 アグリテックグランプリについて</description>
+    </item>
+    
+    <item>
+      <title>BSテレビ東京「日経プラス10」にてHarvestXが紹介されました。</title>
+      <link>https://m12watanabe1a.github.io/news/20200409/</link>
+      <pubDate>Thu, 09 Apr 2020 22:00:00 +0900</pubDate>
+      
+      <guid>https://m12watanabe1a.github.io/news/20200409/</guid>
+      <description>4 月 9 日（木）BS テレビ東京「日経プラス 10」にて HarvestX が紹介されました。
+テレビ東京オンデマンド</description>
     </item>
     
     <item>
