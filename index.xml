@@ -7,30 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©HarvestX Inc. 2021</copyright>
-    <lastBuildDate>Tue, 08 Oct 2019 15:17:42 +0900</lastBuildDate><atom:link href="https://m12watanabe1a.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Sep 2020 09:00:00 +0900</lastBuildDate><atom:link href="https://m12watanabe1a.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Webページをリニューアルしました</title>
-      <link>https://m12watanabe1a.github.io/news/webrenewal.ja/</link>
-      <pubDate>Tue, 08 Oct 2019 15:17:42 +0900</pubDate>
+      <title>アグリテックグランプリにて三井化学賞を受賞しました</title>
+      <link>https://m12watanabe1a.github.io/news/20200930/</link>
+      <pubDate>Wed, 30 Sep 2020 09:00:00 +0900</pubDate>
       
-      <guid>https://m12watanabe1a.github.io/news/webrenewal.ja/</guid>
-      <description>HarvestX チームは Web サイトのリニューアルを行いました。
-url は以前と変わらずharvest.jpとなります。
-別記事でお伝えしましたように HarvestX は SXSW への出展に向けてプロジェクトを進めていきますが、その様子をこちらの Web にてお伝えしていく予定ですので今後ともよろしくお願いいたします。
-今回の Web サイトリニューアルにあたっては、さくらインターネット様からのご支援をいただきサーバーを利用させていただいております。深く御礼申し上げます。</description>
+      <guid>https://m12watanabe1a.github.io/news/20200930/</guid>
+      <description>先日、9 月 26 日（土）に行われたアグリテックグランプリ最終選考会で三井化学賞を受賞しました。
+アグリテックグランプリについて</description>
     </item>
     
     <item>
       <title>Todai To Texas Demo Day Awardを受賞しました</title>
-      <link>https://m12watanabe1a.github.io/news/ttt-winner.ja/</link>
-      <pubDate>Sun, 29 Sep 2019 19:19:21 +0900</pubDate>
+      <link>https://m12watanabe1a.github.io/news/20190930/</link>
+      <pubDate>Mon, 30 Sep 2019 20:00:00 +0900</pubDate>
       
-      <guid>https://m12watanabe1a.github.io/news/ttt-winner.ja/</guid>
-      <description>先日、９月２９日（日）に行われた Todai To Texas Demo Day にて Demo Day Award を獲得し、来年３月にテキサス州オースティンで開催される SXSW2020 に展示ブースを出展することになりました！
-はじめに やったね 先日、９月２９日（日）に行われた Todai To Texas Demo Day にて Demo Day Award を獲得し、来年３月にテキサス州オースティンで開催される SXSW2020 に展示ブースを出展することになりました
-Todai To Texas は東京大学が開催しているコンテストで、29 日に行われた最終選考である Demo Day ではピッチおよび審査員の前で開発しているプロダクトのデモを行いました。Demo Day Award 受賞チームには翌年の３月にテキサス州オースティンで開催される音楽と映画とテクノロジーの祭典である SXSW のテクノロジー部門の展示会でのブースや渡航に関わる資金が提供されます。
-今回このように努力が実を結び、プロジェクトが大きなマイルストーンを達成することができたことについて、協力してくださっている企業様方にこの場を借りて深く感謝申し上げます。
-SXSW2020 Trade Show での展示に向け、さらなる授粉ロボットの開発を進めていきますので、今後とも温かいご支援のほどよろしくお願いいたします。</description>
+      <guid>https://m12watanabe1a.github.io/news/20190930/</guid>
+      <description>先日、9 月 29 日（日）に行われた Todai To Texas Demo Day にて Demo Day Award を獲得し、来年 3 月にアメリカ テキサス州オースティンで開催される SXSW2020 に展示ブースを出展することになりました！
+Todai To Texasは東京大学産学共創推進本部が主催しているしているコンテストで、優勝 6 チームには毎年 3 月にアメリカ テキサス州オースティンで開催される音楽と映画とテクノロジーの祭典である SXSW のインタラクティブ部門の展示会でのブースや渡航に関わる資金が提供されます。 29 日に行われた最終選考である Demo Day では審査員の前でピッチおよび開発しているプロダクトのデモを行いました。
+今回プロジェクトが大きなマイルストーンを達成することができたことについて、協力してくださっている関係者の方々にこの場を借りて深く感謝申し上げます。
+SXSW 2020 Trade Show での展示に向け、さらなるロボット開発に邁進して参りますので、今後とも温かいご支援のほどよろしくお願いいたします。</description>
     </item>
     
   </channel>
