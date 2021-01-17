@@ -699,17 +699,19 @@ header {
     margin-bottom: 24px; }
     .product_content-main img:last-child, .product_content-gallery img:last-child {
       margin-bottom: 0; }
+  .product_content-main p, .product_content-gallery p {
+    margin-bottom: 0; }
 
 @media screen and (min-width: 1025px) {
   .product_content-main, .product_content-gallery {
     flex-direction: row;
     justify-content: space-between; }
-  .product_content-main {
-    margin-bottom: 40px; }
-    .product_content-main p {
-      width: 50%; }
-    .product_content-main img {
-      width: 40%; }
+  .product_content-main p {
+    width: 50%;
+    margin-bottom: 0; }
+  .product_content-main img {
+    width: 40%;
+    margin-bottom: 0; }
   .product_content-gallery img {
     margin-bottom: 0;
     width: 30%; } }
