@@ -579,7 +579,7 @@ header {
         font-size: 72px; } }
     @media screen and (min-width: 1025px) {
       .hero-header_message {
-        top: 50%;
+        top: 40%;
         left: 50%;
         transform: translateX(-50%);
         width: 100%;
@@ -632,19 +632,20 @@ header {
   .top_news-button {
     text-align: center; } }
 
-.top_service-img img {
-  display: block;
-  width: 100%;
-  margin-bottom: 16px; }
-
-@media screen and (min-width: 1025px) {
-  .top_service-img {
-    display: flex;
-    justify-content: space-between; }
-    .top_service-img img {
-      width: 47%;
-      margin: 0; } }
-
+.top_service-img {
+  margin-bottom: 40px; }
+  .top_service-img img {
+    display: block;
+    width: 100%;
+    margin-bottom: 16px; }
+  @media screen and (min-width: 1025px) {
+    .top_service-img {
+      margin-bottom: 48px;
+      display: flex;
+      justify-content: space-between; }
+      .top_service-img img {
+        width: 47%;
+        margin: 0; } }
 .top_company-buttons {
   display: flex;
   flex-direction: column; }
