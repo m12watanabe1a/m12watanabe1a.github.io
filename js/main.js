@@ -15,7 +15,15 @@ menuBtn.onclick = function(){
   menuOpen = !menuOpen
 }
 
-
 function preventEvent(event) {
   event.preventDefault();
 }
+
+//ファーストビューの高さの設定
+document.addEventListener('DOMContentLoaded', () =>{
+  /iPhone|iPod|iPad|Android/i.test(navigator.userAgent)
+  && document.documentElement.style.setProperty(
+      '--outer-height',
+      `${window.outerHeight}px`
+    )
+})

@@ -1,3 +1,6 @@
+:root {
+  --outer-height: 100vh; }
+
 h1,
 h2,
 h3 {
@@ -309,7 +312,7 @@ header {
         font-size: 18px;
         font-weight: 500; } }
 .nav-open {
-  height: 100vh;
+  height: var(--outer-height);
   width: 100vw;
   position: fixed; }
   .nav-open .header_contents {
@@ -516,7 +519,7 @@ header {
 .loader_wrapper {
   position: fixed;
   width: 100%;
-  height: 100vh;
+  height: var(--outer-height);
   background: #c91b48;
   z-index: 50; }
   .loader_wrapper-inner {
@@ -534,13 +537,10 @@ header {
   display: none; }
 
 .hero-header {
-  height: 90vh;
+  height: var(--outer-height);
   width: 100%;
   position: relative;
   background: rgba(0, 0, 0, 0.9); }
-  @media screen and (min-width: 1025px) {
-    .hero-header {
-      height: 100vh; } }
   .hero-header::before {
     content: "";
     position: absolute;
