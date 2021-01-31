@@ -1,5 +1,5 @@
 :root {
-  --outer-height: 100vh; }
+  --inner-height: 100vh; }
 
 h1,
 h2,
@@ -312,7 +312,7 @@ header {
         font-size: 18px;
         font-weight: 500; } }
 .nav-open {
-  height: var(--outer-height);
+  height: var(--inner-height);
   width: 100vw;
   position: fixed; }
   .nav-open .header_contents {
@@ -519,7 +519,7 @@ header {
 .loader_wrapper {
   position: fixed;
   width: 100%;
-  height: var(--outer-height);
+  height: var(--inner-height);
   background: #c91b48;
   z-index: 50; }
   .loader_wrapper-inner {
@@ -537,7 +537,7 @@ header {
   display: none; }
 
 .hero-header {
-  height: var(--outer-height);
+  height: var(--inner-height);
   width: 100%;
   position: relative;
   background: rgba(0, 0, 0, 0.9); }

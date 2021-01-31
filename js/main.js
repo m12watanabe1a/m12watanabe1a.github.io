@@ -23,7 +23,7 @@ function preventEvent(event) {
 document.addEventListener('DOMContentLoaded', () =>{
   /iPhone|iPod|iPad|Android/i.test(navigator.userAgent)
   && document.documentElement.style.setProperty(
-      '--outer-height',
-      `${window.outerHeight}px`
+      '--inner-height',
+      `${window.innerHeight}px`
     )
 })
