@@ -22,6 +22,8 @@ function preventEvent(event) {
 //ファーストビューの高さの設定
 document.addEventListener('DOMContentLoaded', () =>{
   /iPhone|iPod|iPad|Android/i.test(navigator.userAgent)
+  || (navigator.userAgent.includes('Macintosh')
+  && 'ontouchend' in document)
   && document.documentElement.style.setProperty(
       '--inner-height',
       `${window.innerHeight}px`
