@@ -845,7 +845,7 @@ header {
 .contact textarea {
   display: block; }
 
-.contact__name, .contact__company, .contact__email, .contact__message {
+.contact__name, .contact__company, .contact__email, .contact__type, .contact__message {
   margin-bottom: 48px; }
 
 .contact label {
@@ -857,7 +857,8 @@ header {
 
 .contact #email,
 .contact #companyName,
-.contact #userName {
+.contact #userName,
+.contact #contactType {
   padding: 4px 8px;
   border: none;
   border-radius: 0;
@@ -872,11 +873,21 @@ header {
   letter-spacing: 0.2px; }
   .contact #email::placeholder,
   .contact #companyName::placeholder,
-  .contact #userName::placeholder {
+  .contact #userName::placeholder,
+  .contact #contactType::placeholder {
     color: #808080;
     font-family: "Noto Sans JP", sans-serif;
     font-weight: 400;
     letter-spacing: 0.2px; }
+
+.contact #contactType {
+  appearance: none;
+  position: relative;
+  background: url(../img/angle-down-solid.svg);
+  background-repeat: no-repeat;
+  background-size: 24px 20px;
+  background-position: right 16px center;
+  background-color: #f5f5f5; }
 
 .contact #message {
   border: 0;

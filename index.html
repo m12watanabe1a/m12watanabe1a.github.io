@@ -27,7 +27,7 @@
 
 <link rel="stylesheet" href="/css/bootstrap-reboot.css">
 
-<link rel="stylesheet" href="https://m12watanabe1a.github.io/sass/main.7bd441e1d5fb6cd0856213b987807332b6c70184f81a5d365bc2c5a18ebe57d7.css">
+<link rel="stylesheet" href="https://m12watanabe1a.github.io/sass/main.5a31ffd19320147c5b8aa63c26a23e65e9b25b41ba74a0de740513d3c3a0b93b.css">
 <link rel='stylesheet' href='/css/loaders.min.css'>
 
     <link rel="stylesheet" href="/css/index.css">
@@ -189,8 +189,20 @@
             required
           />
         </div>
+        <div class='contact__type'>
+          <label for="contactType">お問い合わせ内容(必須)</label>
+          <select name="" id="contactType" required>
+            <option value="" hidden>お問い合わせ内容を選択してください</option>
+            <option data-value=""　value="">製品について</option>
+            <option data-value=""　value="">弊社との協業について</option>
+            <option data-value=""　value="">取材依頼</option>
+            <option data-value=""　value="">イベント出演依頼</option>
+            <option data-value=""　value="">セールス(原則返信はいたしません)</option>
+            <option data-value=""　value="">その他</option>
+          </select>
+        </div>
         <div class="contact__message">
-          <label for="content">お問い合わせ内容(必須)</label>
+          <label for="message">メッセージ(必須)</label>
           <textarea id="message" name="entry.1260784323" required></textarea>
         </div>
         <div class="contact__submit">
