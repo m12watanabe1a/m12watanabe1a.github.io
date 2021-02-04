@@ -152,65 +152,44 @@
     </section>
     <section class='top_section'>
         <h2 class='sc-title'>Contact</h2><section class="contact" id="contact">
-      <form
-        class="contact__form"
-        action="https://docs.google.com/forms/d/e/1FAIpQLSfdjeUphdf96BupbyUwwHNidkMaHw1pyrlU3qqt7PL2MXUfKg/formResponse"
-        target="_self"
-        method="POST"
-        id="mG61Hd"
-      >
-        <div class="contact__name">
-          <label for="userName">お名前(必須)</label>
-          <input
-            type="text"
-            id="userName"
-            name="entry.1533242780"
-            placeholder="Taro Yamada"
-            required
-          />
-        </div>
-        <div class="contact__company">
-            <label for="companyName">会社名(必須)</label>
-            <input
-              type="text"
-              id="companyName"
-              name="entry.1238635224"
-              placeholder="HarvestX株式会社"
-              required
-            />
-          </div>
-        <div class="contact__email">
-          <label for="email">メールアドレス(必須)</label>
-          <input
-            type="email"
-            id="email"
-            name="entry.585401056"
-            placeholder="mail@example.com"
-            required
-          />
-        </div>
-        <div class='contact__type'>
-          <label for="contactType">お問い合わせ内容(必須)</label>
-          <select name="" id="contactType" required>
-            <option value="" hidden>お問い合わせ内容を選択してください</option>
-            <option data-value=""　value="">製品について</option>
-            <option data-value=""　value="">弊社との協業について</option>
-            <option data-value=""　value="">取材依頼</option>
-            <option data-value=""　value="">イベント出演依頼</option>
-            <option data-value=""　value="">セールス(原則返信はいたしません)</option>
-            <option data-value=""　value="">その他</option>
-          </select>
-        </div>
-        <div class="contact__message">
-          <label for="message">メッセージ(必須)</label>
-          <textarea id="message" name="entry.1260784323" required></textarea>
-        </div>
-        <div class="contact__submit">
-          <input id="submit" class='button-sm' type="submit" value="送信" />
-        </div>
-      </form>
+  <form class="contact__form"
+    action="https://docs.google.com/forms/d/e/1FAIpQLSfOQPYfYpHsjTdMgQ6qv4BiVPeIHwYOrRjymNn2mT605Q-HUg/formResponse"
+    target="_self" method="POST" id="mG61Hd">
+    <div class="contact__name">
+      <label for="userName">お名前(必須)</label>
+      <input type="text" id="userName" name="entry.1533242780" placeholder="Taro Yamada" required />
     </div>
-  </section></section>
+    <div class="contact__company">
+      <label for="companyName">会社名(必須)</label>
+      <input type="text" id="companyName" name="entry.1238635224" placeholder="HarvestX株式会社" required />
+    </div>
+    <div class="contact__email">
+      <label for="email">メールアドレス(必須)</label>
+      <input type="email" id="email" name="entry.585401056" placeholder="mail@example.com" required />
+    </div>
+    <div class='contact__type'>
+      <label for="contactType">お問い合わせ内容(必須)</label>
+      <select name="conatct_type" id="contactType" required>
+        <option value="" disabled selected>お問い合わせ内容を選択してください</option>
+        <option value="製品について">製品について</option>
+        <option value="弊社との協業について">弊社との協業について</option>
+        <option value="取材依頼">取材依頼</option>
+        <option value="イベント出演依頼">イベント出演依頼</option>
+        <option value="セールス">セールス(原則返信はいたしません)</option>
+        <option value="その他">その他</option>
+      </select>
+      <input type="hidden" id="contact_type" name="entry.1627274347">
+    </div>
+    <div class="contact__message">
+      <label for="message">メッセージ(必須)</label>
+      <textarea id="message" name="entry.1260784323" required></textarea>
+    </div>
+    <div class="contact__submit">
+      <input id="submit" class='button-sm' type="submit" value="送信" />
+    </div>
+  </form>
+</section>
+<script type="text/javascript" src="https://m12watanabe1a.github.io/js/contact.js"></script></section>
 </div>
 <footer>
     <div class='footer_contacts-wrapper'>
