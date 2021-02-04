@@ -221,19 +221,26 @@ a {
       .news_card-title {
         margin-bottom: 3px; } }
 .news_category {
-  width: 160px;
+  width: 140px;
   padding: 3px 0;
   text-align: center;
   color: #808080;
-  font-size: 16px;
+  font-size: 14px;
+  line-height: 20px;
   border: solid 1px #808080; }
-
+  @media screen and (min-width: 1025px) {
+    .news_category {
+      width: 160px;
+      font-size: 16px;
+      line-height: 28px; } }
 .news_date {
   font-family: proxima-nova, sans-serif;
   font-weight: 500;
   color: #c91b48;
   font-size: 18px; }
-
+  @media screen and (min-width: 1025px) {
+    .news_date {
+      width: 120px; } }
 header {
   background: white;
   height: 80px;
@@ -336,7 +343,7 @@ header {
     opacity: 1;
     text-align: center;
     position: absolute;
-    top: 50%;
+    top: calc(50% + 40px);
     left: 50%;
     transform: translateY(-50%) translateX(-50%); }
     .nav-open .header_nav ul {
@@ -641,6 +648,7 @@ header {
   .top_service-img img {
     display: block;
     width: 100%;
+    height: auto;
     margin-bottom: 16px; }
   @media screen and (min-width: 1025px) {
     .top_service-img {
@@ -649,6 +657,7 @@ header {
       justify-content: space-between; }
       .top_service-img img {
         width: 47%;
+        height: auto;
         margin: 0; } }
 .top_company-buttons {
   display: flex;
@@ -671,7 +680,7 @@ header {
   position: relative;
   width: 100%;
   margin: 24px 0;
-  padding: calc((100vw * 0.8 - 40px) * 9 / 16) 0 0;
+  padding: calc((100vw - 40px) * 9 / 16) 0 0;
   margin-bottom: 48px !important; }
   .movie-wrapper iframe {
     position: absolute;
@@ -700,6 +709,7 @@ header {
   align-items: center; }
   .product_content-main img, .product_content-gallery img {
     width: 100%;
+    height: auto;
     margin-bottom: 24px; }
     .product_content-main img:last-child, .product_content-gallery img:last-child {
       margin-bottom: 0; }
@@ -715,10 +725,12 @@ header {
     margin-bottom: 0; }
   .product_content-main img {
     width: 40%;
+    height: auto;
     margin-bottom: 0; }
   .product_content-gallery img {
     margin-bottom: 0;
-    width: 30%; } }
+    width: 30%;
+    height: auto; } }
 
 .c-info_each {
   margin-bottom: 32px;
