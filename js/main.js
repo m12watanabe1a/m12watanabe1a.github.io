@@ -22,7 +22,6 @@ function preventEvent(event) {
 //ファーストビューの高さの設定
 document.addEventListener('DOMContentLoaded', function(){
   const isSP = /iPhone|iPod|iPad|Android|Macintosh/i.test(navigator.userAgent) && 'ontouchend' in document
-  console.log(isSP)
   if(isSP){
     document.documentElement.style.setProperty(
       '--inner-height',
