@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HarvestX | News on HarvestX</title>
-    <link>192.168.3.2/news/</link>
+    <link>https://m12watanabe1a.github.io/news/</link>
     <description>Recent content in HarvestX | News on HarvestX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©HarvestX Inc. 2021</copyright>
-    <lastBuildDate>Mon, 18 Jan 2021 09:59:50 +0900</lastBuildDate><atom:link href="192.168.3.2/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jan 2021 09:59:50 +0900</lastBuildDate><atom:link href="https://m12watanabe1a.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>総額5000万円の資金調達を実施しました。</title>
-      <link>192.168.3.2/news/20210118/</link>
+      <link>https://m12watanabe1a.github.io/news/20210118/</link>
       <pubDate>Mon, 18 Jan 2021 09:59:50 +0900</pubDate>
       
-      <guid>192.168.3.2/news/20210118/</guid>
+      <guid>https://m12watanabe1a.github.io/news/20210118/</guid>
       <description>HarvestX 株式会社（本社：東京都文京区、代表取締役社長：市川友貴、以下「HarvestX」）は、独立系ベンチャーキャピタル「ANRI 4 号投資事業有限責任組合」（代表：佐俣アンリ、以下「ANRI」)、東京大学協創プラットフォーム開発株式会社（本社：東京都文京区本郷、代表取締役社長 大泉克彦、以下「東大 IPC」）が運営するオープンイノベーション推進 1 号投資事業有限責任組合（以下「AOI1 号ファンド」）、河合聡一郎、曾川景介、田中邦裕から、総額 5000 万円の資金調達を実施しました。
 ロボットによる完全自動栽培で農業の人手不足解決を目指す 食料問題や農業人口の不足、また昨今のコロナウィルスによる食の衛生面・安全に対する関心の高まりとともに注目が高まる植物工場市場。レタスなどの葉物類の植物工場が展開を広げる一方で、果物類は、ミツバチを媒介とした虫媒受粉に多くを依存しており、受粉収穫の不安定さ、また飼育管理のコストが課題となっています。HarvestX は、ミツバチに代わる手段としてロボットを活用した授粉・収穫技術の開発に取り組み、現在はイチゴを対象に受粉から収穫までの栽培の完全自動化を目指しています。　HarvestX は、東京大学が主催する「本郷テックガレージ」の支援プログラムにて立ち上げ、South by Southwest（SXSW）の Trade Show 出展を目指す「Todai To Texas」や未踏 IT 人材発掘・育成事業を通じて、ロボットによる授粉・収穫技術の基礎となるプロトタイプの開発を推進してきました。
 自動授粉・収穫実証試験ロボット XV1 投資家よりコメント ANRI 元島勇太 氏 果菜の植物工場化は、果物の安定供給だけでなく、農業を支え SDGs にも資する重要な課題です。難しい課題ですが、HarvestX なら必ずやり遂げてくれると確信しています。出口（採取）のために入口（受粉）から制御しようというエンジニア感全開のソリューションとやり切るガッツと実装力あるチームが最高です。未踏デモデイから早 1 年、出し続けたラブコールが実ってご一緒できて嬉しいです！ 全力支援していきます！本郷産いちごの試食はいつでもお任せください！
@@ -25,10 +25,10 @@
     
     <item>
       <title>「東大IPC 1stRound」に採択されました</title>
-      <link>192.168.3.2/news/20201020/</link>
+      <link>https://m12watanabe1a.github.io/news/20201020/</link>
       <pubDate>Tue, 20 Oct 2020 17:30:00 +0900</pubDate>
       
-      <guid>192.168.3.2/news/20201020/</guid>
+      <guid>https://m12watanabe1a.github.io/news/20201020/</guid>
       <description>東京大学協創プラットフォーム開発(東大 IPC)が展開するインキュベーションプログラム「東大 IPC 1stRound」に HarvestX(株)が採択されました。
 プレスリリース 東大 IPC: https://www.utokyo-ipc.co.jp/2020/10/utokyoipc-1stround_3rd_final/
 メディア掲載 DIAMOND SIGNAL
@@ -37,30 +37,30 @@ TechCrunch</description>
     
     <item>
       <title>アグリテックグランプリにて三井化学賞を受賞しました</title>
-      <link>192.168.3.2/news/20200930/</link>
+      <link>https://m12watanabe1a.github.io/news/20200930/</link>
       <pubDate>Wed, 30 Sep 2020 09:00:00 +0900</pubDate>
       
-      <guid>192.168.3.2/news/20200930/</guid>
+      <guid>https://m12watanabe1a.github.io/news/20200930/</guid>
       <description>先日、9 月 26 日（土）に行われたアグリテックグランプリ最終選考会で三井化学賞を受賞しました。
 アグリテックグランプリについて</description>
     </item>
     
     <item>
       <title>BSテレビ東京「日経プラス10」にてHarvestXが紹介されました。</title>
-      <link>192.168.3.2/news/20200409/</link>
+      <link>https://m12watanabe1a.github.io/news/20200409/</link>
       <pubDate>Thu, 09 Apr 2020 22:00:00 +0900</pubDate>
       
-      <guid>192.168.3.2/news/20200409/</guid>
+      <guid>https://m12watanabe1a.github.io/news/20200409/</guid>
       <description>4 月 9 日（木）BS テレビ東京「日経プラス 10」にて HarvestX が紹介されました。
 テレビ東京オンデマンド</description>
     </item>
     
     <item>
       <title>Todai To Texas Demo Day Awardを受賞しました</title>
-      <link>192.168.3.2/news/20190930/</link>
+      <link>https://m12watanabe1a.github.io/news/20190930/</link>
       <pubDate>Mon, 30 Sep 2019 20:00:00 +0900</pubDate>
       
-      <guid>192.168.3.2/news/20190930/</guid>
+      <guid>https://m12watanabe1a.github.io/news/20190930/</guid>
       <description>先日、9 月 29 日（日）に行われた Todai To Texas Demo Day にて Demo Day Award を獲得し、来年 3 月にアメリカ テキサス州オースティンで開催される SXSW2020 に展示ブースを出展することになりました！
 Todai To Texasは東京大学産学共創推進本部が主催しているしているコンテストで、優勝 6 チームには毎年 3 月にアメリカ テキサス州オースティンで開催される音楽と映画とテクノロジーの祭典である SXSW のインタラクティブ部門の展示会でのブースや渡航に関わる資金が提供されます。 29 日に行われた最終選考である Demo Day では審査員の前でピッチおよび開発しているプロダクトのデモを行いました。
 今回プロジェクトが大きなマイルストーンを達成することができたことについて、協力してくださっている関係者の方々にこの場を借りて深く感謝申し上げます。

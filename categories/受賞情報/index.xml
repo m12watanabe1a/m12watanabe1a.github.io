@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>受賞情報 on HarvestX</title>
-    <link>192.168.3.2/categories/%E5%8F%97%E8%B3%9E%E6%83%85%E5%A0%B1/</link>
+    <link>https://m12watanabe1a.github.io/categories/%E5%8F%97%E8%B3%9E%E6%83%85%E5%A0%B1/</link>
     <description>Recent content in 受賞情報 on HarvestX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©HarvestX Inc. 2021</copyright>
-    <lastBuildDate>Wed, 30 Sep 2020 09:00:00 +0900</lastBuildDate><atom:link href="192.168.3.2/categories/%E5%8F%97%E8%B3%9E%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Sep 2020 09:00:00 +0900</lastBuildDate><atom:link href="https://m12watanabe1a.github.io/categories/%E5%8F%97%E8%B3%9E%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>アグリテックグランプリにて三井化学賞を受賞しました</title>
-      <link>192.168.3.2/news/20200930/</link>
+      <link>https://m12watanabe1a.github.io/news/20200930/</link>
       <pubDate>Wed, 30 Sep 2020 09:00:00 +0900</pubDate>
       
-      <guid>192.168.3.2/news/20200930/</guid>
+      <guid>https://m12watanabe1a.github.io/news/20200930/</guid>
       <description>先日、9 月 26 日（土）に行われたアグリテックグランプリ最終選考会で三井化学賞を受賞しました。
 アグリテックグランプリについて</description>
     </item>
     
     <item>
       <title>Todai To Texas Demo Day Awardを受賞しました</title>
-      <link>192.168.3.2/news/20190930/</link>
+      <link>https://m12watanabe1a.github.io/news/20190930/</link>
       <pubDate>Mon, 30 Sep 2019 20:00:00 +0900</pubDate>
       
-      <guid>192.168.3.2/news/20190930/</guid>
+      <guid>https://m12watanabe1a.github.io/news/20190930/</guid>
       <description>先日、9 月 29 日（日）に行われた Todai To Texas Demo Day にて Demo Day Award を獲得し、来年 3 月にアメリカ テキサス州オースティンで開催される SXSW2020 に展示ブースを出展することになりました！
 Todai To Texasは東京大学産学共創推進本部が主催しているしているコンテストで、優勝 6 チームには毎年 3 月にアメリカ テキサス州オースティンで開催される音楽と映画とテクノロジーの祭典である SXSW のインタラクティブ部門の展示会でのブースや渡航に関わる資金が提供されます。 29 日に行われた最終選考である Demo Day では審査員の前でピッチおよび開発しているプロダクトのデモを行いました。
 今回プロジェクトが大きなマイルストーンを達成することができたことについて、協力してくださっている関係者の方々にこの場を借りて深く感謝申し上げます。
