@@ -19,10 +19,15 @@ window.addEventListener('load', function(){
   loadVideo()
   topVideo.muted = true
   topVideo.loop = true
+  topVideo.autoplay = true
 })
 
 topVideo.addEventListener('canplaythrough', (event) => {
   topVideo.play()
+})
+
+window.addEventListener('blur', function(){
+  topVideo.pause()
 })
 
 window.addEventListener('focus', (event) =>{

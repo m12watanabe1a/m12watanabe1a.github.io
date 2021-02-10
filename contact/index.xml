@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contact | HarvestX on HarvestX</title>
-    <link>https://m12watanabe1a.github.io/contact/</link>
-    <description>Recent content in Contact | HarvestX on HarvestX</description>
+    <title>HarvestX | お問い合わせ on HarvestX</title>
+    <link>192.168.3.2/contact/</link>
+    <description>Recent content in HarvestX | お問い合わせ on HarvestX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>©HarvestX Inc. 2021</copyright><atom:link href="https://m12watanabe1a.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©HarvestX Inc. 2021</copyright><atom:link href="192.168.3.2/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

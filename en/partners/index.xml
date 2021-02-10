@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HarvestX | Partners on HarvestX</title>
-    <link>192.168.3.2/partners/</link>
+    <link>192.168.3.2/en/partners/</link>
     <description>Recent content in HarvestX | Partners on HarvestX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>©HarvestX Inc. 2021</copyright><atom:link href="192.168.3.2/partners/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>©HarvestX Inc. 2021</copyright><atom:link href="192.168.3.2/en/partners/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

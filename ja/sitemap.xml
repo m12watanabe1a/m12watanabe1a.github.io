@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>192.168.3.2/categories/</loc>
+    <lastmod>2021-01-18T09:59:50+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/news/</loc>
+    <lastmod>2021-01-18T09:59:50+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/</loc>
+    <lastmod>2021-01-18T09:59:50+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</loc>
+    <lastmod>2021-01-18T09:59:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/news/20210118/</loc>
+    <lastmod>2021-01-18T09:59:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/news/20201020/</loc>
+    <lastmod>2020-10-20T17:30:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/news/20200930/</loc>
+    <lastmod>2020-09-30T09:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/categories/%E5%8F%97%E8%B3%9E%E6%83%85%E5%A0%B1/</loc>
+    <lastmod>2020-09-30T09:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/news/20200409/</loc>
+    <lastmod>2020-04-09T22:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</loc>
+    <lastmod>2020-04-09T22:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/news/20190930/</loc>
+    <lastmod>2019-09-30T20:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/partners/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/partners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/partners/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/service/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/members/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/members/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/members/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/company/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/company/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/company/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/tags/"
+                />
+  </url>
+  
+</urlset>

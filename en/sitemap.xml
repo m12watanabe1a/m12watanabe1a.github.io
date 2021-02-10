@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>192.168.3.2/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/en/company/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/company/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/company/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/en/members/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/members/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/members/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/en/news/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/en/partners/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/partners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/partners/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/en/service/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>192.168.3.2/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="192.168.3.2/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="192.168.3.2/en/tags/"
+                />
+  </url>
+  
+</urlset>
