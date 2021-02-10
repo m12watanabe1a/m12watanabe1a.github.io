@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>プレスリリース on HarvestX</title>
-    <link>https://m12watanabe1a.github.io/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</link>
-    <description>Recent content in プレスリリース on HarvestX</description>
+    <title>HarvestX | News on HarvestX</title>
+    <link>https://m12watanabe1a.github.io/news/</link>
+    <description>Recent content in HarvestX | News on HarvestX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©HarvestX Inc. 2021</copyright>
-    <lastBuildDate>Mon, 18 Jan 2021 09:59:50 +0900</lastBuildDate><atom:link href="https://m12watanabe1a.github.io/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jan 2021 09:59:50 +0900</lastBuildDate><atom:link href="https://m12watanabe1a.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>総額5000万円の資金調達を実施しました。</title>
       <link>https://m12watanabe1a.github.io/news/20210118/</link>
@@ -33,6 +33,38 @@
 プレスリリース 東大 IPC: https://www.utokyo-ipc.co.jp/2020/10/utokyoipc-1stround_3rd_final/
 メディア掲載 DIAMOND SIGNAL
 TechCrunch</description>
+    </item>
+    
+    <item>
+      <title>アグリテックグランプリにて三井化学賞を受賞しました</title>
+      <link>https://m12watanabe1a.github.io/news/20200930/</link>
+      <pubDate>Wed, 30 Sep 2020 09:00:00 +0900</pubDate>
+      
+      <guid>https://m12watanabe1a.github.io/news/20200930/</guid>
+      <description>先日、9 月 26 日（土）に行われたアグリテックグランプリ最終選考会で三井化学賞を受賞しました。
+アグリテックグランプリについて</description>
+    </item>
+    
+    <item>
+      <title>BSテレビ東京「日経プラス10」にてHarvestXが紹介されました。</title>
+      <link>https://m12watanabe1a.github.io/news/20200409/</link>
+      <pubDate>Thu, 09 Apr 2020 22:00:00 +0900</pubDate>
+      
+      <guid>https://m12watanabe1a.github.io/news/20200409/</guid>
+      <description>4 月 9 日（木）BS テレビ東京「日経プラス 10」にて HarvestX が紹介されました。
+テレビ東京オンデマンド</description>
+    </item>
+    
+    <item>
+      <title>Todai To Texas Demo Day Awardを受賞しました</title>
+      <link>https://m12watanabe1a.github.io/news/20190930/</link>
+      <pubDate>Mon, 30 Sep 2019 20:00:00 +0900</pubDate>
+      
+      <guid>https://m12watanabe1a.github.io/news/20190930/</guid>
+      <description>先日、9 月 29 日（日）に行われた Todai To Texas Demo Day にて Demo Day Award を獲得し、来年 3 月にアメリカ テキサス州オースティンで開催される SXSW2020 に展示ブースを出展することになりました！
+Todai To Texasは東京大学産学共創推進本部が主催しているしているコンテストで、優勝 6 チームには毎年 3 月にアメリカ テキサス州オースティンで開催される音楽と映画とテクノロジーの祭典である SXSW のインタラクティブ部門の展示会でのブースや渡航に関わる資金が提供されます。 29 日に行われた最終選考である Demo Day では審査員の前でピッチおよび開発しているプロダクトのデモを行いました。
+今回プロジェクトが大きなマイルストーンを達成することができたことについて、協力してくださっている関係者の方々にこの場を借りて深く感謝申し上げます。
+SXSW 2020 Trade Show での展示に向け、さらなるロボット開発に邁進して参りますので、今後とも温かいご支援のほどよろしくお願いいたします。</description>
     </item>
     
   </channel>
