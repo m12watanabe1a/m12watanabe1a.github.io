@@ -6,6 +6,16 @@
     <description>Recent content in Categories on HarvestX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>©HarvestX Inc. 2021</copyright><atom:link href="https://m12watanabe1a.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©HarvestX Inc. 2021</copyright>
+    <lastBuildDate>Mon, 18 Jan 2021 09:59:50 +0900</lastBuildDate><atom:link href="https://m12watanabe1a.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Press release</title>
+      <link>https://m12watanabe1a.github.io/en/categories/press-release/</link>
+      <pubDate>Mon, 18 Jan 2021 09:59:50 +0900</pubDate>
+      
+      <guid>https://m12watanabe1a.github.io/en/categories/press-release/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
