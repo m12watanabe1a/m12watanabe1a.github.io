@@ -29,3 +29,21 @@ document.addEventListener('DOMContentLoaded', function(){
     )
   }
 })
+
+//コンタクトフォームの制御
+const contactForm = document.getElementById('contactForm')
+const submittedMsg = document.getElementById('submittedMsg')
+const resubmitBtn = document.getElementById('resubmitBtn')
+let formSubmitted = false
+
+contactForm.addEventListener('submit',function(){
+  formSubmitted = true
+  contactForm.style.display = 'none'
+  submittedMsg.style.display = 'flex'
+})
+
+resubmitBtn.addEventListener('click', function(){
+  formSubmitted = false
+  contactForm.style.display = 'block'
+  submittedMsg.style.display = 'none'
+})

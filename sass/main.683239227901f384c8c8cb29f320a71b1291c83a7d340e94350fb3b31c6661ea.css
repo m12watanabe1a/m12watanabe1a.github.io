@@ -860,6 +860,17 @@ header {
 .contact__name, .contact__company, .contact__email, .contact__type, .contact__message {
   margin-bottom: 48px; }
 
+.contact__submitted {
+  height: 975px;
+  text-align: center;
+  background: #f5f5f5;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+  .contact__submitted p {
+    font-size: 20px;
+    margin-bottom: 20px; }
+
 .contact label {
   color: rgba(0, 0, 0, 0.9);
   font-family: "Noto Sans JP", sans-serif;
