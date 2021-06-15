@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://m12watanabe1a.github.io/en/categories/</loc>
     <lastmod>2021-01-18T09:59:50+09:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="en"
                 href="https://m12watanabe1a.github.io/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://m12watanabe1a.github.io/en/news/</loc>
     <lastmod>2021-01-18T09:59:50+09:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="en"
                 href="https://m12watanabe1a.github.io/en/news/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://m12watanabe1a.github.io/en/</loc>
     <lastmod>2021-01-18T09:59:50+09:00</lastmod>
     <xhtml:link
@@ -45,14 +40,10 @@
                 hreflang="en"
                 href="https://m12watanabe1a.github.io/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://m12watanabe1a.github.io/en/categories/press-release/</loc>
     <lastmod>2021-01-18T09:59:50+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://m12watanabe1a.github.io/en/news/20210118/</loc>
     <lastmod>2021-01-18T09:59:50+09:00</lastmod>
     <xhtml:link
@@ -65,9 +56,7 @@
                 hreflang="en"
                 href="https://m12watanabe1a.github.io/en/news/20210118/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://m12watanabe1a.github.io/en/company/</loc>
     <xhtml:link
                 rel="alternate"
@@ -79,9 +68,7 @@
                 hreflang="en"
                 href="https://m12watanabe1a.github.io/en/company/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://m12watanabe1a.github.io/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -93,9 +80,7 @@
                 hreflang="en"
                 href="https://m12watanabe1a.github.io/en/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://m12watanabe1a.github.io/en/members/</loc>
     <xhtml:link
                 rel="alternate"
@@ -107,9 +92,7 @@
                 hreflang="en"
                 href="https://m12watanabe1a.github.io/en/members/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://m12watanabe1a.github.io/en/partners/</loc>
     <xhtml:link
                 rel="alternate"
@@ -121,9 +104,7 @@
                 hreflang="en"
                 href="https://m12watanabe1a.github.io/en/partners/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://m12watanabe1a.github.io/en/service/</loc>
     <xhtml:link
                 rel="alternate"
@@ -135,9 +116,7 @@
                 hreflang="en"
                 href="https://m12watanabe1a.github.io/en/service/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://m12watanabe1a.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -150,5 +129,4 @@
                 href="https://m12watanabe1a.github.io/en/tags/"
                 />
   </url>
-  
 </urlset>
